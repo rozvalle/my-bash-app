@@ -1,0 +1,2 @@
+PROJECT_NAME=my-bash-app
+TAILWIND=on
